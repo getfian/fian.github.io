@@ -1,2 +1,3 @@
-# getfian.github.io
-GHP Website
+# Flarum in a Nutshell
+
+Install Flarum with ease.
